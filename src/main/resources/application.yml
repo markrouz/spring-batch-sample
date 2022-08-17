@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:mydb
+    username: itemrows
+    password: itemrows
+    driverClassName: org.h2.Driver
+
